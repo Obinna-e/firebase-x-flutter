@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "466695368340",
+    "project_id": "fir-xflutter-8faea",
+    "storage_bucket": "fir-xflutter-8faea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466695368340:android:59bbd596ba983832ecce81",
+        "android_client_info": {
+          "package_name": "com.example.firebasexflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhDvcJTBtvqhZ28EZW4uAlP0EGFf_b1BM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
